@@ -90,7 +90,7 @@
 
         <hazelcast.version>3.7.2</hazelcast.version>
 
-        <azure.client.authentication.version>1.6.0</azure.client.authentication.version>
+        <azure.client.authentication.version>1.7.2</azure.client.authentication.version>
         <azure.mgmt.sdk.version>1.14.0</azure.mgmt.sdk.version>
 
         <maven.findbugs.plugin.version>3.0.0</maven.findbugs.plugin.version>
