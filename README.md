@@ -1,3 +1,5 @@
+NOTE! atlassian specific changes are located on master-atlassian
+
 # Table of Contents
 
 * [Discovery Implementation for Azure Services](#discovery-implementation-for-azure-services)
